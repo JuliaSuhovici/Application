@@ -3,13 +3,13 @@ public class Application {
 
 	public static void main(String[] args) {
 	
-		// Проверка на цену
+		// РџСЂРѕРІРµСЂРєР° РЅР° С†РµРЅСѓ
 		Product p1 = new Product("iPhone", -10000.00, 1);
 		
-		// Проверка на имя
+		// РџСЂРѕРІРµСЂРєР° РЅР° РёРјСЏ
 		Product p2 = new Product(" ", 30000.00, 2);
 		
-		// Проверка на количество
+		// РџСЂРѕРІРµСЂРєР° РЅР° РєРѕР»РёС‡РµСЃС‚РІРѕ
 		Product p3 = new Product("Samsung", 1000.00, -4);
 		
 	}
